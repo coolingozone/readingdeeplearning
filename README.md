@@ -11,8 +11,9 @@ This is a kind of dairy for my reading of paper/resource for AI especially on de
 
    Particularly keen to understand more about transfer learning and so start on this.
    
- * [How transferable are features in deep neural networks?](5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+ * [How transferable are features in deep neural networks?](paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
 * [Decaf A deep convolutional activation feature for generic visual recognition](deep-convolutional-activation-feature-for-generic-visual-recognition.pdf)
+
 
 ## NLP
 
