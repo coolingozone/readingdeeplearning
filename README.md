@@ -14,9 +14,9 @@ This is a kind of dairy for my reading of paper/resource for AI especially on de
  * [How transferable are features in deep neural networks?](paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
 * [Decaf A deep convolutional activation feature for generic visual recognition](paper/deep-convolutional-activation-feature-for-generic-visual-recognition.pdf)
 * [How Deep Learning Work](paper/how_deep_learning_work.pdf)
-* [Rethinking the Inception Architecture for Computer Vision](inceptionv3.pdf)
+* [Rethinking the Inception Architecture for Computer Vision](paper/inceptionv3.pdf)
 * [Inception-V4, Inception-ResNet and the Impact of Residual Connections on Learning](paper/inceptionv4.pdf)
-* [CNN Feature Off-the-Shelf: an Astouding Baseline for Recognition](Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
+* [CNN Feature Off-the-Shelf: an Astouding Baseline for Recognition](paper/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
 
 
 
